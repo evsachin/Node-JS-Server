@@ -1,0 +1,7 @@
+img{
+  width: 60rem;
+  height: 30rem;
+  border-radius: 50%;
+  border: 10px solid purple;
+  box-shadow: 10px 9px rgb(182, 177, 177) ;
+}
